@@ -1,0 +1,46 @@
+.create{
+    display: flex;
+    flex-direction: column;
+    background:#F2BA02;
+    height: 100vh;
+    padding-left: 90px;
+    padding-top: 20px;
+}
+
+.container{
+    width: 70%;
+}
+
+.right{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.edit{
+    padding: 10px;
+}
+.preview{
+    padding: 10px;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.title{
+    min-height: 121px;
+    width:100%;
+    overflow: hidden;
+    resize:none;
+    /* font-family: 'crayons-textfield crayons-textfield--ghost'; */
+    font-size: 2.5em;
+    font-weight: bold;
+}
+.Post_Content{
+    resize:none;
+    height :300px;
+    overflow: hidden;
+    width: 100%;
+    font-size:1.5em;
+}

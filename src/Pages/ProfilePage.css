@@ -1,0 +1,8 @@
+.profile_page{
+    display: flex;
+    flex-direction: column;
+    background:#F2BA02;
+    height: 100vh;
+    padding-left: 90px;
+    padding-top: 20px;
+}

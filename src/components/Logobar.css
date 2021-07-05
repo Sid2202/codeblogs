@@ -1,0 +1,10 @@
+.logobar{
+    /* background: radial-gradient(11.13% 16.65% at 86.53% 12.4%, #FEDD72 0%, rgba(255, 255, 255, 0) 100%), #F2BA02; */
+
+    position: fixed;
+    display: flex;
+    justify-content:center;
+    z-index: 20;
+    right: 0px;
+    padding: 3%;
+}
